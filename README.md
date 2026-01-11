@@ -6,6 +6,7 @@ This project is based on [rpi3-wifi-conf-android](https://github.com/brendan-mye
 
 Tested on Raspberry Pi 4 running dietpi.
 
-Use it with the script run.py on Rpi
+Use it with the script run.py on Rpi after making bluetooth discoverable and pairable.
+Make a script to turn on bluetooth discovery on startup, if necessary.
 
 - Made it compatible with modern Android versions.
