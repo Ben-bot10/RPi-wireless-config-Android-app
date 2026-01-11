@@ -4,5 +4,6 @@ An Android app to wirelessly transmit Wi-Fi credentials (SSID and Password PSK) 
 ## Credits
 This project is based on [rpi3-wifi-conf-android](https://github.com/brendan-myers/rpi3-wifi-conf-android)
 
+Use it with the script run.py on Rpi
 
 - Made it compatible with modern Android versions.
